@@ -6,7 +6,6 @@
  
 
 
-![](https://github-readme-stats.vercel.app/api?username=demoAlitalia&show_icons=true&theme=transparent)
 
 
 
