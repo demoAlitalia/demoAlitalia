@@ -1,7 +1,8 @@
 ### 👋,I'm demoAlitalia.
 
-- 🔭 安全爱好者
-- 🔭 随机编程
+- 🔭 CyberSecurity enthusiast
+- 🔭 Random Code
+  
  
 
 
