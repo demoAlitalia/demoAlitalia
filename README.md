@@ -1,4 +1,4 @@
-### 👋,I'm demoAlitalia[零灵].
+### 👋,I'm demoAlitalia.
 
 - 🔭 CyberSecurity enthusiast
 - 🔭 Random In coding
